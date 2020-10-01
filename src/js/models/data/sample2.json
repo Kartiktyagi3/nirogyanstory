@@ -1,0 +1,32 @@
+[
+{
+    "PName": "Mr. Dummy",
+    "Age": "66 YRS",
+    "Gender": "Male",
+    "WorkOrderID": "012009240084",
+    "COLLECTEDBY": "Santosh",
+    "LabID": "012009240084",
+    "DoctorApprovedDateTime": "2020-09-24 18:58:31",
+    "PackageProfileID": "63",
+    "PackageProfileName": "Random Blood Glucose",
+    "TestID": "171",
+    "TestName": "GLUCOSE- RANDOM",
+    "TestTechnique": "",
+    "TestResultValue": "167.5",
+    "TestMeasuringUnit": "mg/dl",
+    "TestParameterMinRangeValue": "70",
+    "TestParameterMaxRangeValue": "140",
+    "TestParameterMinCriticalRangeValue": "0",
+    "TestParameterMaxCriticalRangeValue": "0",
+    "sampletype": " PLASMA",
+    "BarcodeNo": "10026505",
+    "SamplecollectedDate": "9/24/2020 6:45:50 PM",
+    "SampleReceiveDate": "9/24/2020 6:45:50 PM",
+    "ResultEnteredDate": "2020-09-24 18:58:24",
+    "ApprovedDate": "9/24/2020 6:58:31 PM",
+    "DoctorName": "SELF 1",
+    "Method": "Hexokinase",
+    "TestParameterMachineTestedOn": "2020-09-24 18:27:48",
+    "TestParameterMachineReading": "167.5"
+}
+]
